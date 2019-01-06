@@ -1,0 +1,48 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "Nunca vi..."
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "série de teste",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "para editar",
+      "id": 5
+    },
+    {
+      "name": "Lúcifer",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Poderia ser melhor...",
+      "id": 6
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
